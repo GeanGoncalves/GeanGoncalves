@@ -1,4 +1,4 @@
-## Oi, eu sou o Gean! 👋
+### Oi, eu sou o Gean! 👋
 
 - 🎓 Estudante de Engenharia de Computação na Universidade Federal de Itajubá
 - 💻 Tenho experiência em C, C++, Java, Portugol, Haskell, Prolog e nos programas Adobe Photoshop e Premiere
