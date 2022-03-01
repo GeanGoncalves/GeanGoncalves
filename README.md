@@ -2,7 +2,7 @@
   <h2>Oi, eu sou o Gean!</h2>
 </div>
 <h3>Sobre mim</h3>
-📝Assessor de Presidência na <a href="https://byronsolutions.com"  target="_blank">byron.solutions</a>.<br>
+📝 Assessor de Presidência na <a href="https://byronsolutions.com"  target="_blank">byron.solutions</a>.<br>
 🎓 Estudante de Engenharia de Computação na Universidade Federal de Itajubá.<br>
 <p>💻 Tenho experiência em C, C++, Java, Html, CSS, JavaScript, Bootstrap, Haskell, Prolog e nos programas Adobe Photoshop e Premiere.<br></p>
 
