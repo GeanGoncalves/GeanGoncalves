@@ -4,11 +4,10 @@
 
 
 
-
-<div style="display: inline_block"><br>
   <h3>Sobre mim</h3>
   🎓 Estudante de Engenharia de Computação na Universidade Federal de Itajubá.<br>
   <p>💻 Tecnologias trabalhadas!</p>
+  <div style="display: inline_block">
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gean-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
@@ -21,6 +20,7 @@
 </div>
 
 ##
+
 <div> 
 <a href = "mailto: geancarlosgmartkns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/geangmartins/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
