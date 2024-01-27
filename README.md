@@ -5,7 +5,7 @@
 
 
   <h3>Sobre mim</h3>
-  🎓 Estudante de Engenharia de Computação na Universidade Federal de Itajubá.<br>
+  🎓 Graduando de Engenharia de Computação na Universidade Federal de Itajubá.<br>
   <p>💻 Tecnologias trabalhadas!</p>
   <div style="display: inline_block">
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
