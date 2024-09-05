@@ -5,7 +5,11 @@
 
 
   <h3>Sobre mim</h3>
-  🎓 Graduando de Engenharia de Computação na Universidade Federal de Itajubá.<br>
+<p>
+Engenheiro de Computação em formação pela Universidade Federal de Itajubá (UNIFEI), com sólida experiência em desenvolvimento front-end e profundo interesse em Inteligência Artificial e aprendizado de máquina. Minha jornada na tecnologia começou cedo, aos 6 anos, com o Windows 98, e desde então tenho aprimorado minhas habilidades em diversas áreas da computação. Já atuei em projetos que envolveram desde a criação de interfaces de usuário intuitivas até o desenvolvimento de soluções com foco em back-end e machine learning.</p>
+
+<p>
+Atualmente, busco oportunidades para aplicar meu conhecimento em Python, data science e machine learning em ambientes desafiadores e inovadores. Estou aberto a posições que possibilitem o desenvolvimento de novas competências, especialmente em inteligência artificial e engenharia de software.</p>
   <p>💻 Tecnologias trabalhadas!</p>
   <div style="display: inline_block">
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
