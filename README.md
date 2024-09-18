@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Oi, eu sou o Gean! 👋</h2>
+  <h2>Bem-vindo ao meu Portfólio! 👋</h2>
 </div>
 
 
