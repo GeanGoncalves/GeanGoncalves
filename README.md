@@ -6,20 +6,24 @@
 
   <h3>Sobre mim</h3>
 <p>
-Engenheiro de Computação em formação pela Universidade Federal de Itajubá (UNIFEI), com sólida experiência em desenvolvimento front-end e profundo interesse em Inteligência Artificial e aprendizado de máquina. Minha jornada na tecnologia começou cedo, aos 6 anos, com o Windows 98, e desde então tenho aprimorado minhas habilidades em diversas áreas da computação. Já atuei em projetos que envolveram desde a criação de interfaces de usuário intuitivas até o desenvolvimento de soluções com foco em back-end e machine learning.</p>
+Graduando em Engenharia de Computação pela Universidade Federal de Itajubá (UNIFEI), com experiência prática em projetos de desenvolvimento Front-End, Back-End e Deep Learning aplicados à Inteligência Artificial. Minha trajetória acadêmica e profissional tem me proporcionado contato com diferentes áreas da computação, desde a criação de interfaces de usuário até a implementação de soluções baseadas em aprendizado profundo.</p>
 
 <p>
-Atualmente, busco oportunidades para aplicar meu conhecimento em Python, data science e machine learning em ambientes desafiadores e inovadores. Estou aberto a posições que possibilitem o desenvolvimento de novas competências, especialmente em inteligência artificial e engenharia de software.</p>
+Atualmente, direciono meus esforços para aplicar e expandir meus conhecimentos em Inteligência Artificial, Ciência de Dados e Engenharia de Software. Busco oportunidades em ambientes desafiadores e inovadores que possibilitem crescimento técnico e contribuições significativas por meio de soluções de alto impacto.</p>
   <p>💻 Tecnologias trabalhadas!</p>
   <div style="display: inline_block">
   <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gean-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gean-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
+  <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg">
+  <img align="center" alt="Gean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
   
+
+
+ 
 </div>
 
 ##
